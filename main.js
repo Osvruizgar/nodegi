@@ -35,10 +35,10 @@
 
 // console.log("listening on port 3000...");
 
-var fs = require("fs");
+// var fs = require("fs");
 
-function readData(err, data) {
-  console.log(data);
-}
+// function readData(err, data) {
+//   console.log(data);
+// }
 
-fs.readFile("solarsystem.txt", "utf8", readData);
+// fs.readFile("solarsystem.txt", "utf8", readData);
